@@ -1,0 +1,5 @@
+id_manutencao,id_onibus,tipo,data_abertura,custo,status_manutencao,prefixo,placa,modelo,ano,status_onibus
+4,3,Problema no motor,2026-08-08,5800.0,Aberta,103,GHI7J89,Mercedes-Benz OF-1721,2020,Manutenção
+7,5,Suspensão,2026-08-15,2800.0,Aberta,105,NOP4Q56,Mercedes-Benz OF-1721,2019,Inativo
+11,3,Problema no motor,2026-08-08,5800.0,Aberta,103,GHI7J89,Mercedes-Benz OF-1721,2020,Manutenção
+14,5,Suspensão,2026-08-15,2800.0,Aberta,105,NOP4Q56,Mercedes-Benz OF-1721,2019,Inativo

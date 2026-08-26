@@ -1,0 +1,6 @@
+id_viagem,data_viagem,prefixo,modelo,motorista,linha,itinerario,km_percorridos,classificacao_viagem
+1,2026-08-01,101,Mercedes-Benz OF-1721,Carlos Silva,100,Centro x Zona Norte,120.0,Média
+2,2026-08-01,102,Volkswagen 17.230,João Santos,101,Centro x Zona Sul,95.0,Curta
+3,2026-08-02,103,Mercedes-Benz OF-1721,Marcos Oliveira,100,Centro x Zona Norte,110.0,Média
+4,2026-08-02,101,Mercedes-Benz OF-1721,Carlos Silva,100,Centro x Zona Norte,125.0,Média
+5,2026-08-02,104,Volkswagen 17.230,Rafael Souza,200,Centro x Zona Oeste,150.0,Longa

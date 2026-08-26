@@ -1,0 +1,15 @@
+id_manutencao,id_onibus,tipo,data_abertura,custo,status
+1,1,"Troca de óleo",2026-08-01,450.00,Concluída
+2,1,"Revisão dos freios",2026-08-05,1200.00,Concluída
+3,2,"Troca de pneus",2026-08-07,3500.00,Concluída
+4,3,"Problema no motor",2026-08-08,5800.00,Aberta
+5,3,"Revisão elétrica",2026-08-10,1500.00,Concluída
+6,4,"Troca de óleo",2026-08-12,480.00,Concluída
+7,5,Suspensão,2026-08-15,2800.00,Aberta
+8,1,"Troca de óleo",2026-08-01,450.00,Concluída
+9,1,"Revisão dos freios",2026-08-05,1200.00,Concluída
+10,2,"Troca de pneus",2026-08-07,3500.00,Concluída
+11,3,"Problema no motor",2026-08-08,5800.00,Aberta
+12,3,"Revisão elétrica",2026-08-10,1500.00,Concluída
+13,4,"Troca de óleo",2026-08-12,480.00,Concluída
+14,5,Suspensão,2026-08-15,2800.00,Aberta
