@@ -4,8 +4,3 @@ id_onibus,prefixo,placa,modelo,ano,status
 3,103,GHI7J89,"Mercedes-Benz OF-1721",2020,Manutenção
 4,104,JKL1M23,"Volkswagen 17.230",2023,Ativo
 5,105,NOP4Q56,"Mercedes-Benz OF-1721",2019,Inativo
-6,101,ABC1D23,"Mercedes-Benz OF-1721",2022,Ativo
-7,102,DEF4G56,"Volkswagen 17.230",2021,Ativo
-8,103,GHI7J89,"Mercedes-Benz OF-1721",2020,Manutenção
-9,104,JKL1M23,"Volkswagen 17.230",2023,Ativo
-10,105,NOP4Q56,"Mercedes-Benz OF-1721",2019,Inativo
